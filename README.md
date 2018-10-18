@@ -1,2 +1,2 @@
-# Grant-ed.github.co
+# Grant-ed.github.io
 GitHub guide website
